@@ -1,0 +1,13 @@
+[submodule "module/ktx"]
+	path = module/ktx
+	url = https://github.com/KhronosGroup/KTX-Software
+[submodule "module/astc"]
+	path = module/astc
+	url = https://github.com/ARM-software/astc-encoder
+[submodule "module/catch2"]
+	path = module/catch2
+	url = https://github.com/catchorg/Catch2
+[submodule "module/magick"]
+	path = module/magick
+	url = https://github.com/MarcoMartins86/ImageMagick.git
+	branch = CMake-support

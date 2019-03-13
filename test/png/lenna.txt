@@ -1,0 +1,91 @@
+Image: lenna.png
+  Format: PNG (Portable Network Graphics)
+  Mime type: image/png
+  Class: DirectClass
+  Geometry: 512x512+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: TrueColor
+  Base type: Undefined
+  Endianess: Undefined
+  Depth: 8-bit
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 262144
+    Red:
+      min: 54  (0.211765)
+      max: 255 (1)
+      mean: 180.224 (0.706759)
+      standard deviation: 49.0489 (0.192349)
+      kurtosis: -0.78318
+      skewness: -0.701054
+      entropy: 0.947988
+    Green:
+      min: 3  (0.0117647)
+      max: 248 (0.972549)
+      mean: 99.0512 (0.388436)
+      standard deviation: 52.8776 (0.207363)
+      kurtosis: -0.755511
+      skewness: 0.222994
+      entropy: 0.963387
+    Blue:
+      min: 8  (0.0313725)
+      max: 225 (0.882353)
+      mean: 105.41 (0.413374)
+      standard deviation: 34.058 (0.133561)
+      kurtosis: -0.168566
+      skewness: 0.680264
+      entropy: 0.926214
+  Image statistics:
+    Overall:
+      min: 3  (0.0117647)
+      max: 255 (1)
+      mean: 128.228 (0.502856)
+      standard deviation: 45.3282 (0.177757)
+      kurtosis: -0.909352
+      skewness: 0.214565
+      entropy: 0.945863
+  Rendering intent: Perceptual
+  Gamma: 0.45455
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Matte color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: none
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 512x512+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Zip
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-07-11T15:26:52+00:00
+    date:modify: 2019-07-11T15:26:52+00:00
+    png:cHRM: chunk was found (see Chromaticity, above)
+    png:gAMA: gamma=0.45455 (See Gamma, above)
+    png:IHDR.bit-depth-orig: 8
+    png:IHDR.bit_depth: 8
+    png:IHDR.color-type-orig: 2
+    png:IHDR.color_type: 2 (Truecolor)
+    png:IHDR.interlace_method: 0 (Not interlaced)
+    png:IHDR.width,height: 512, 512
+    png:sRGB: intent=0 (Perceptual Intent)
+    signature: e601a575bdbb5920f36564c489966d80beaad3818f0c74de0a6cf3a57644c527
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 473831B
+  Number pixels: 262144
+  Pixels per second: 33.8648MP
+  User time: 0.016u
+  Elapsed time: 0:01.007
+  Version: ImageMagick 7.0.8-53 Q16 x64 2019-07-05 http://www.imagemagick.org

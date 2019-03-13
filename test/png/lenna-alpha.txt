@@ -1,0 +1,104 @@
+Image: lenna-alpha.png
+  Format: PNG (Portable Network Graphics)
+  Mime type: image/png
+  Class: DirectClass
+  Geometry: 512x512+0+0
+  Resolution: 28.35x28.35
+  Print size: 18.06x18.06
+  Units: PixelsPerCentimeter
+  Colorspace: sRGB
+  Type: TrueColorAlpha
+  Base type: Undefined
+  Endianess: Undefined
+  Depth: 8-bit
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+    Alpha: 1-bit
+  Channel statistics:
+    Pixels: 262144
+    Red:
+      min: 54  (0.211765)
+      max: 255 (1)
+      mean: 183.679 (0.720309)
+      standard deviation: 49.6705 (0.194786)
+      kurtosis: -0.68401
+      skewness: -0.690429
+      entropy: 0.940465
+    Green:
+      min: 3  (0.0117647)
+      max: 255 (1)
+      mean: 105.703 (0.41452)
+      standard deviation: 59.6596 (0.233959)
+      kurtosis: -0.185917
+      skewness: 0.520821
+      entropy: 0.955087
+    Blue:
+      min: 8  (0.0313725)
+      max: 255 (1)
+      mean: 111.806 (0.438456)
+      standard deviation: 44.2115 (0.173378)
+      kurtosis: 2.16982
+      skewness: 1.39619
+      entropy: 0.922356
+    Alpha:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 245.02 (0.960861)
+      standard deviation: 49.451 (0.193925)
+      kurtosis: 20.5907
+      skewness: -4.75295
+      entropy: 0.23833
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 161.552 (0.633537)
+      standard deviation: 50.7482 (0.199012)
+      kurtosis: -1.3148
+      skewness: -0.136234
+      entropy: 0.764059
+  Alpha: srgba(255,255,255,0)   #FFFFFF00
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Matte color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: none
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 512x512+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Zip
+  Orientation: Undefined
+  Properties:
+    date:create: 2019-07-24T14:51:23+00:00
+    date:modify: 2019-07-24T14:51:23+00:00
+    png:bKGD: chunk was found (see Background color, above)
+    png:IHDR.bit-depth-orig: 8
+    png:IHDR.bit_depth: 8
+    png:IHDR.color-type-orig: 6
+    png:IHDR.color_type: 6 (RGBA)
+    png:IHDR.interlace_method: 0 (Not interlaced)
+    png:IHDR.width,height: 512, 512
+    png:pHYs: x_res=2835, y_res=2835, units=1
+    png:sRGB: intent=0 (Perceptual Intent)
+    png:tIME: 2019-07-24T14:51:23Z
+    signature: e6cb7886e4dec0a6936002c498f8fb7090e435f24077202b8e9c754d25f41de7
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 538255B
+  Number pixels: 262144
+  Pixels per second: 24.3179MP
+  User time: 0.016u
+  Elapsed time: 0:01.010
+  Version: ImageMagick 7.0.8-53 Q16 x64 2019-07-05 http://www.imagemagick.org
