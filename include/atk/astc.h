@@ -25,6 +25,16 @@
 
 #include <astc_codec_internals.h>
 
+void encode_astc_image(const astc_codec_image * input_image,
+					   astc_codec_image * output_image,
+					   int xdim,
+					   int ydim,
+					   int zdim,
+					   const error_weighting_params * ewp, astc_decode_mode decode_mode, swizzlepattern swz_encode, swizzlepattern swz_decode, uint8_t * buffer, int pack_and_unpack, int threadcount);
+
+void store_astc_file(const astc_codec_image * input_image,
+					 const char *filename, int xdim, int ydim, int zdim, const error_weighting_params * ewp, astc_decode_mode decode_mode, swizzlepattern swz_encode, int threadcount);
+
 #include "atk/image.h"
 
 namespace atk

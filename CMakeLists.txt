@@ -84,6 +84,10 @@ set(KTX_INCLUDE_DIRS
 
 add_library(ktx ${KTX_SOURCES})
 
+if (APPLE)
+  include_directories(AFTER "/opt/X11/include")
+endif()
+
 target_include_directories(ktx PUBLIC ${KTX_INCLUDE_DIRS})
 target_compile_definitions(ktx PRIVATE "-DKTX_OPENGL=1")
 
