@@ -1,3 +1,10 @@
+# Deprecation notice
+This repository is not deprectated. Use toktx from [KTX-Software](https://github.com/KhronosGroup/KTX-Software) to compress images into ktx astc with mipmaps.
+
+`
+toktx --encode astc --astc_blk_d 6x6 --astc_mode ldr --genmipmap output.ktx input[s].png
+`
+
 # KTX-creator
 
 KTX-creator can help you to compressing and packing images into a [KTX](https://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/) texture.
