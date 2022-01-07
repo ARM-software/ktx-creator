@@ -1,5 +1,5 @@
 # Deprecation notice
-This repository is not deprectated. Use toktx from [KTX-Software](https://github.com/KhronosGroup/KTX-Software) to compress images into ktx astc with mipmaps.
+This repository is now deprectated. Use toktx from [KTX-Software](https://github.com/KhronosGroup/KTX-Software) to compress images into ktx astc with mipmaps.
 
 `
 toktx --encode astc --astc_blk_d 6x6 --astc_mode ldr --genmipmap output.ktx input[s].png
